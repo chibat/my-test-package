@@ -1,0 +1,14 @@
+{
+  "name": "@chibat/my-test-package",
+  "version": "0.0.1",
+  "main": "index.js",
+  "bin": {
+    "my-test-package": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
